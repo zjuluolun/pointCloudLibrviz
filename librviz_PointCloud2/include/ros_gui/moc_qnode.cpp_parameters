@@ -1,0 +1,8 @@
+-I/home/luolun/AlgorithQt/src/testRVIZ
+-I/home/luolun/AlgorithQt/src/testRVIZ
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="testRVIZ"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/luolun/AlgorithQt/src/testRVIZ/include/ros_gui/moc_qnode.cpp
+/home/luolun/AlgorithQt/src/testRVIZ/include/ros_gui/qnode.hpp
