@@ -1,4 +1,4 @@
-# 使用librviz完成点云的显示
+# 使用Qt+librviz+ros设计点云显示界面
 
 ## 配置要求
 `Ubuntu 16.04`
