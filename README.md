@@ -7,4 +7,6 @@
 
 `Qt 5.12`
 
-## 使用方法见 https://blog.csdn.net/zhukeng0535/article/details/87717891 
+## 使用方法
+
+https://blog.csdn.net/zhukeng0535/article/details/87717891 
